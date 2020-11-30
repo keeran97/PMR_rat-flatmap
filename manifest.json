@@ -1,0 +1,12 @@
+{
+    "id": "whole-rat",
+    "models": "NCBITaxon:10114",
+    "anatomicalMap": "anatomical_map.xlsx",
+    "properties": "rat_flatmap_properties.json",
+    "sources": [
+        {
+            "href": "rat_flatmap_merged.pptx",
+            "kind": "slides"
+        }
+    ]
+}
