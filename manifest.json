@@ -5,8 +5,14 @@
     "properties": "rat_flatmap_properties.json",
     "sources": [
         {
-            "href": "rat_flatmap_merged.pptx",
-            "kind": "slides"
+            "id": "whole-rat",
+            "href": "whole-rat.svg",
+            "kind": "base"
+        },
+        {
+            "id": "tissue-slide",
+            "href": "tissue-slide.svg",
+            "kind": "details"
         }
     ]
 }
