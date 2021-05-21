@@ -16,7 +16,7 @@
         },
         {
             "id": "vagus",
-            "href": "sub-10_sam-1_P10-1MergeMask.xml",
+            "href": "https://api.sparc.science/s3-resource/64/4/files/derivative/sub-10/sam-1/sub-10_sam-1_P10-1MergeMask.xml",
             "kind": "image",
             "boundary": "http://purl.org/sig/ont/fma/fma5731"
         }
