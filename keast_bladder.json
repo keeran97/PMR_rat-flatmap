@@ -36,8 +36,8 @@
             "id": "path_5",
             "type": "para-post",
             "path": "P46, P47, P48, P49",
-            "route": "keast_3, C8, (urinary_6, urinary_7, urinary_9, urinary_10)",
             "nerves": "keast_1"
+            "route": "keast_3, C8, (urinary_7, urinary_8, urinary_9, urinary_10)",
         },
         {
             "id": "path_6",
@@ -57,8 +57,8 @@
             "id": "path_8",
             "type": "symp-post",
             "path": "P73, P74",
-            "route": "keast_3, C13, (urinary_7, urinary_10)",
             "nerves": "keast_1"
+            "route": "keast_3, C13, (urinary_8, urinary_10)",
         },
         {
             "id": "path_9",
@@ -71,8 +71,8 @@
             "id": "path_10",
             "type": "symp-post",
             "path": "P81, P82",
-            "route": "keast_6, C16, keast_3, (urinary_7, urinary_10)",
             "nerves": "keast_5, keast_1"
+            "route": "keast_6, C16, keast_3, (urinary_8, urinary_10)",
         },
         {
             "id": "path_11",
@@ -84,8 +84,8 @@
             "id": "path_12",
             "type": "symp-post",
             "path": "P94, P95, P96, P97, P98, P99, P100, P101, P102, P103",
-            "route": "(S46_T12, S46_T13, S46_L1, S46_L2, S46_L3, S46_L4, S46_L5, S46_L6), C18, spinal_47, C19, spinal_47, C20, spinal_47, C21, spinal_47, C22, spinal_47, C23, spinal_47, C24, spinal_47, C25, spinal_47, S46_S1, S49_S1, S49_L6, S50_S1_B, S50_L6_B, keast_3, (urinary_8, urinary_11)",
             "nerves": "keast_4, keast_1"
+            "route": "(S46_T12, S46_T13, S46_L1, S46_L2, S46_L3, S46_L4, S46_L5, S46_L6), C18, spinal_47, C19, spinal_47, C20, spinal_47, C21, spinal_47, C22, spinal_47, C23, spinal_47, C24, spinal_47, C25, spinal_47, S46_S1, S49_S1, S49_L6, S50_S1_B, S50_L6_B, keast_3, (urinary_6, urinary_11)",
         }
     ]
 }
