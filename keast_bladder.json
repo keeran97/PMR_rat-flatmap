@@ -1,6 +1,7 @@
 {
     "id": "keast-bladder",
     "source": "https://apinatomy.org/uris/models/keast-bladder",
+    "publications": ["https://doi.org/10.5281/zenodo.4592539"],
     "paths": [
     {
         "id": "path_1",
