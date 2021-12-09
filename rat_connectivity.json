@@ -244,7 +244,7 @@
             "id": "path_49",
             "type": "symp-pre",
             "path": "P208",
-            "route": "S39_T1, C80, S43_T1, S50_T1_T, S50_T1_B, S48_T1, bolser_25, bolser_9, bolser_24, bolser_14, bolser_23, bolser_20_1"
+            "route": "S39_T1, C80, S43_T1, S50_T1_T, S50_T1_B, S48_T1, bolser_25, bolser_9, bolser_24, bolser_14, bolser_23, bolser20_1"
         },
         {
             "id": "path_50",
